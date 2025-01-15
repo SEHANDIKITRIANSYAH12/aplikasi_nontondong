@@ -1,6 +1,6 @@
-# SeaFlashTix 📽️
+# Nonton Dong! 📽️
 
-SeaFlashTix adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan SeaFlashTix, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
+Nonton Dong! adalah aplikasi pemesanan tiket bioskop secara online yang memudahkan pengguna untuk mencari, memilih, dan memesan tiket bioskop dengan mudah melalui website. Dengan Nonton Dong!, pengguna dapat memesan tiket bioskop yang diinginkan tanpa harus antri di loket bioskop. Aplikasi ini dibuat menggunakan framework [Laravel](https://laravel.com).
 
 ## Tools Requirement
 Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-install dalam PC atau perangkat anda.
@@ -12,7 +12,7 @@ Sebelum menjalankan projek ini, ada beberapa aplikasi/software yang perlu di-ins
 Sebelum menjalankan langkah-langkah dibawah ini, jalankan terlebih dahulu MySQL dan Apache melalui XAMPP control panel yang sudah ter-install. Jalankan perintah-perintah di bawah ini dengan menggunakan terminal Git Bash.
 1. Clone project ke local PC anda dengan menggunakan terminal Git Bash.
 ```
-git clone https://github.com/ilhamydn17/seaAcd23.git
+git clone https://github.com/SEHANDIKITRIANSYAH12/aplikasi_nontondong.git
 ```
 2. Jalankan Git Bash pada folder repositori project yang sudah di clone, kemudian update composer.
 ```
@@ -41,8 +41,8 @@ php artisan serve
 Note
 ```
 *). Untuk melakukan login:
-    username => ilham_
-    password => ilham123,
+    username => sehan123
+    password => sehan123,
     atau dapat dilihat pada file UserSeeder.php
 *). Anda juga dapat melakukan registrasi untuk membuat data akun baru.
 ```
