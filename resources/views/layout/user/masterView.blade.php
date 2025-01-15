@@ -73,7 +73,7 @@
             <div class="main-sidebar sidebar-style-2">
                 <aside id="sidebar-wrapper">
                     <div class="sidebar-brand">
-                        <a href="index.html">SeaFlashTix</a>
+                        <a href="/">NONTON DONG!</a>
                     </div>
                     <div class="sidebar-brand sidebar-brand-sm">
                         <a href="index.html">SC</a>
@@ -102,7 +102,7 @@
             {{-- FOOTER --}}
             <footer class="main-footer">
                 <div class="text-center">
-                    Developed by Ilham Yudantyo &copy; 2023
+                    Developed by Barudak Atlas &copy; 2025
                 </div>
             </footer>
             {{-- END FOOTER --}}

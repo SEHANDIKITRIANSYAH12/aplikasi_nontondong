@@ -14,11 +14,19 @@ class UserSeeder extends Seeder
     public function run(): void
     {
         User::create([
-            'username'=>'ilham_',
-            'name'=> 'Ilham Yudantyo',
-            'password'=>bcrypt('ilham123'),
-            'birthdate'=>'2001-09-18',
-            'balance'=>500000,
+            'username' => 'sehan123',
+            'name' => 'Sehan Diki Triansyah1',
+            'password' => bcrypt('valen123'),
+            'birthdate' => '2004-12-22', // Tanggal diperbaiki menjadi format valid
+            'balance' => 700000,
+        ]);
+
+        User::create([
+            'username' => 'valen123',
+            'name' => 'Valen Fadillah',
+            'password' => bcrypt('valen123'),
+            'birthdate' => '2002-02-14', // Tanggal ini sudah valid
+            'balance' => 450000,
         ]);
     }
 }

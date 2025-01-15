@@ -73,7 +73,7 @@
             {{-- FOOTER --}}
             <footer class="main-footer">
                 <div class="text-center">
-                   Developed by Ilham Yudantyo &copy; 2023
+                   Developed by Barudak Atlas &copy; 2025
                 </div>
             </footer>
         </div>
